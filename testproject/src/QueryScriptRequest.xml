@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QueryScriptRequest>
+    <IMEI>$devIMEI</IMEI>
+    <DevType>$devDevType</DevType>
+    <TestMode>INPHONE</TestMode>
+    <VenderCode>$devVenderCode</VenderCode>
+    <ProvCode>$devProvCode</ProvCode>
+    <LastDownloadTime>$devLastDownloadTime</LastDownloadTime>
+</QueryScriptRequest>

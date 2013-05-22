@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DeviceRegisterRequest>
+    <Device>
+        <DevId>$devicesId</DevId>
+        <DevType>$devicesType</DevType>
+        <DevName>$devicesName</DevName>
+        <TestMode>INPHONE</TestMode>
+        <ProvCode>$devProvCode</ProvCode>
+        <CityCode>$devCityCode</CityCode>
+        <MSIN>$devMSIN</MSIN>
+        <IP></IP>
+        <SWVersion>$devSWVersion</SWVersion>
+        <VenderCode>$devVenderCode</VenderCode>
+        <Status>$devicesStatus</Status>
+    </Device>
+</DeviceRegisterRequest>
